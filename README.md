@@ -1,16 +1,6 @@
-- 👋 Hi, I’m @chunnusingh198
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chunnusingh198/chunnusingh198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://readme-typing-svg.herokuapp.com?center=true&color=27F74E&lines=Hi...+I+am+Krishan+Kant+Gautam;Working+on+something+new..." width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&color=27F74E&lines=Hi...+I+am+Chunnu+Kumar;Working+on+something+new..." width="100%">
 <hr/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chunnusingh198&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-phour" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chunnusingh198&label=Profile%20views&color=0e75b6&style=flat" alt="chunnu kumar" /> </p>
 
  All of my projects are available at https://github.com/chunnusingh198
 
@@ -37,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
 <tr>
 <td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunnusingh198&show_icons=true&locale=en&layout=compact" alt="Krishan kant" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunnusingh198&show_icons=true&locale=en&layout=compact" alt="Chunnu Kumar" /></p>
 </td>
 <td>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chunnusingh198&" alt="Krishan kant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chunnusingh198&" alt="Chunnu kumar" /></p>
 </td>
 </tr>
 </table>
