@@ -5,7 +5,7 @@
  All of my projects are available at https://github.com/chunnusingh198
 
 
-- :speech_balloon: Ask me about **ANGULAR, JAVASCRIPT, HTML, CSS, Wordpress**
+- :speech_balloon: Ask me about **ANGULAR, TYPESCRIPT, JAVASCRIPT, HTML, CSS**
 
 
 - :mailbox: How to reach me :  https://chunnukumar198@gmail.com
