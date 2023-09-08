@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?center=true&color=27F74E&lines=Hi...+I+am+Chunnu+Kumar;Working+on+something+new..." width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&color=000435&lines=Hi...+I+am+Chunnu+Kumar;Working+on+something+new..." width="100%">
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chunnusingh198&label=Profile%20views&color=0e75b6&style=flat" alt="chunnu kumar" /> </p>
 
