@@ -11,7 +11,7 @@ import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
-
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 @NgModule({
   declarations: [
     AppComponent,
@@ -29,7 +29,7 @@ import { AboutusComponent } from './aboutus/aboutus.component';
     HttpClientModule,
     BrowserAnimationsModule,
     MatIconModule,
-
+    MatProgressSpinnerModule
   ],
   providers: [],
   bootstrap: [AppComponent]
