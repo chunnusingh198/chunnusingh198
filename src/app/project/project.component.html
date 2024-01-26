@@ -1,0 +1,16 @@
+<div class="main">
+  <div class="container">
+    <div class="aboutus" *ngFor="let data of project">
+      <div class="text">
+        <div class="content">
+          <h2>{{data.heding}}</h2>
+          <p>{{data.text}}</p>
+            <p><a href="{{data.url}}" target="_blenk">{{data.heding}}...</a></p>
+        </div>
+      </div>
+      <div class="imagesection">
+        <img [src]="data.image">
+      </div>
+    </div>
+  </div>
+</div>

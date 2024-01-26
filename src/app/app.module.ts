@@ -12,6 +12,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { ProjectComponent } from './project/project.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,6 +20,7 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
     NavbarComponent,
     FooterComponent,
     AboutusComponent,
+    ProjectComponent,
 
   ],
   imports: [
