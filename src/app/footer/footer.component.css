@@ -153,4 +153,12 @@ textarea {
     .leftsiteemail {
         bottom: 0% !important;
     }
+    .firstsection h3 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .firstsection h5 {
+        max-width: 100%;
+        width: 100%;
+    }
 }
