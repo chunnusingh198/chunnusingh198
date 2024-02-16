@@ -36,6 +36,11 @@
     border-radius: 10px;
     cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+.navbarsection {
+    width: 50%;
+}
+}
 @media screen and (max-width: 768px) {
 .navbarsection {
     width: 80%;

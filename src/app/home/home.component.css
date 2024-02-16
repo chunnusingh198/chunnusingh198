@@ -65,11 +65,23 @@
     margin-top: 2%;
 }
 
+@media screen and (max-width: 1024px) {
+    .main {
+       margin-top: 2%;
+    }
+}
 @media screen and (max-width: 768px) {
+    .main {
+      width: 80%;
+      padding: 0 10%;
+    }
 .container {
-    width: 90%;
+    width: 100%;
 }
 .introsection p{
     width: 100%;
+}
+.introsection h2 {
+    font-size: 40px;
 }
 }

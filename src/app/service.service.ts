@@ -23,4 +23,8 @@ export class ServiceService {
   clientData(endpoint:any,params:any){
     return this.http.post(environment.addUrl + endpoint,params)
   }
+   public downloadww(){
+     return this.http.get("https://node.monetanalytics.com/tools/downloadReport?cmp_id=14347",
+     {observe:'response',responseType:'blob'})
+   }
 }

@@ -128,3 +128,31 @@ textarea {
     justify-content: space-between;
     align-items: center;
 }
+
+@media only screen and (max-width: 1440px) {
+    .rightsiteemail {
+        bottom: 0% !important;
+    }
+    .leftsiteemail {
+        bottom: 0% !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .rightsiteemail {
+        bottom: 30% !important;
+    }
+    .leftsiteemail {
+        bottom: 30% !important;
+    }
+    .secendsection {
+      width: 90%;
+      padding: 0 5%;
+    }
+    .firstsection {
+      width: 90%;
+      padding: 0 5%;
+    }
+    .footer {
+       flex-direction: column !important;
+    }
+}
