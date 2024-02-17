@@ -56,3 +56,19 @@
     padding-right: 5%;
 }
 }
+@media screen and (max-width: 500px) {
+.section {
+    flex-direction: column;
+}
+.logosection {
+    width: 8%;
+    padding-left: 0%;
+}
+.navbarsection {
+    width: 90%;
+    padding-right: 0%;
+}
+.navbutton {
+    display: none;
+}
+}
