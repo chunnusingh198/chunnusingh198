@@ -133,10 +133,10 @@ textarea {
 }
 @media only screen and (max-width: 1440px) {
     .rightsiteemail {
-        bottom: 30%;
+        bottom: 5%;
     }
     .leftsiteemail {
-        bottom: 30%;
+        bottom: 5%;
     }
 }
 @media only screen and (max-width: 1024px) {
@@ -174,4 +174,18 @@ textarea {
     .leftsiteemail {
         bottom: 45% !important;
     }
+}
+@media screen and (max-width: 500px) {
+.leftsiteemail p a {
+    font-size: 16px;
+}
+.rightsiteemail p a {
+    font-size: 16px;
+}
+.leftsiteemail {
+    right: 45%;
+}
+.rightsiteemail {
+    left: 45%;
+}
 }
