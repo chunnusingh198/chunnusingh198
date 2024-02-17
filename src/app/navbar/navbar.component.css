@@ -43,6 +43,16 @@
 }
 @media screen and (max-width: 768px) {
 .navbarsection {
-    width: 80%;
+    width: 70%;
+    padding-right: 10%;
+}
+.logosection {
+    width: 8%;
+}
+}
+@media screen and (max-width: 600px) {
+.navbarsection {
+    width: 72%;
+    padding-right: 5%;
 }
 }

@@ -49,4 +49,12 @@
     .imagesection {
         display: none !important;
     }
+    .container{
+        width: 100%
+    }
+}
+@media only screen and (max-width: 768px) {
+.main {
+    justify-content: flex-start;
+}
 }
