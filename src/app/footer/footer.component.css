@@ -131,20 +131,20 @@ textarea {
 .footer {
     width: 90%;
 }
-@media only screen and (max-width: 1440px) {
+/* @media only screen and (max-width: 1440px) {
     .rightsiteemail {
         bottom: 5%;
     }
     .leftsiteemail {
         bottom: 5%;
     }
-}
+} */
 @media only screen and (max-width: 1024px) {
     .rightsiteemail {
-        bottom: 30% !important;
+        bottom: 0% !important;
     }
     .leftsiteemail {
-        bottom: 30% !important;
+        bottom: 0% !important;
     }
     .secendsection {
       width: 90%;
@@ -173,6 +173,12 @@ textarea {
     }
     .leftsiteemail {
         bottom: 45% !important;
+    }
+    .rightsiteemail {
+        bottom: 30% !important;
+    }
+    .leftsiteemail {
+        bottom: 30% !important;
     }
 }
 @media screen and (max-width: 500px) {
