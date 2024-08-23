@@ -131,6 +131,9 @@ textarea {
 .footer {
     width: 90%;
 }
+.links {
+    cursor: pointer;
+}
 /* @media only screen and (max-width: 1440px) {
     .rightsiteemail {
         bottom: 5%;

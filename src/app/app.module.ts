@@ -13,6 +13,8 @@ import { FooterComponent } from './footer/footer.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { ProjectComponent } from './project/project.component';
+import { ExperienceComponent } from './experience/experience.component';
+import {MatProgressBarModule} from '@angular/material/progress-bar';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,6 +23,7 @@ import { ProjectComponent } from './project/project.component';
     FooterComponent,
     AboutusComponent,
     ProjectComponent,
+    ExperienceComponent,
 
   ],
   imports: [
@@ -31,7 +34,8 @@ import { ProjectComponent } from './project/project.component';
     HttpClientModule,
     BrowserAnimationsModule,
     MatIconModule,
-    MatProgressSpinnerModule
+    MatProgressSpinnerModule,
+    MatProgressBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
