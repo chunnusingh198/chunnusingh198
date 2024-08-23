@@ -5,7 +5,10 @@
     margin-top: 2%;
 }
 .container{
-    width: 90%
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
 }
 .aboutus {
     display: flex;
@@ -14,7 +17,7 @@
     width: 100%;
     flex-direction: row;
     column-gap: 25px;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
 
 }
 .aboutus:last-child {
