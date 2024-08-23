@@ -2,7 +2,10 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 2%;
+    padding: 2% 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../../assets/image/aboutLanding.jpg);
 }
 .container{
     width: 90%
@@ -14,6 +17,9 @@
     width: 100%;
     flex-direction: row;
     column-gap: 25px;
+}
+::ng-deep.mat-progress-bar-fill::after {
+    background-color: #38d2ef !important;
 }
 .text {
     width: 50%;
@@ -37,4 +43,9 @@
     height: 9px !important;
     margin-bottom: 4% !important;
     border-radius: 10px !important;
+}
+.content p a {
+    color: #38d2ef;
+    font-size: 18px;
+    text-decoration: none;
 }

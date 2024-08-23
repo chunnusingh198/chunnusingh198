@@ -79,9 +79,17 @@ textarea {
 }
 .sendbutton {
     width: fit-content;
-    padding: 1% 2%;
     font-size: 16px;
     cursor: pointer;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: #38d2ef;
+    color: white;
+}
+.sendbutton:hover {
+    background: #89e8f4;
+    color: black;
 }
 .rightsiteemail {
     transform: rotate(90deg);
